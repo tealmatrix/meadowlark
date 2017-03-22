@@ -4,7 +4,7 @@
   "description": "Sample website for Web Development with Node and Express (O'Reilly).",
   "main": "meadowlark.js",
   "scripts": {
-      "start": "madowlark.js",
+      "start": "node madowlark.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
